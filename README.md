@@ -16,6 +16,6 @@ SQL & DAX Implementation: Used SQL queries and DAX measures to extract, manipula
 
 Visual Dashboards: Created intuitive interactive dashboards showcasing revenue breakdowns, order trends, and geographic sales distributions.
 
-This project demonstrates data-driven decision-making by leveraging Power BI, SQL, and data analytics techniques to improve Amazon’s e-commerce operations. 🚀
+This project demonstrates data-driven decision-making by leveraging Power BI, SQL, and data analytics techniques to improve Amazon’s e-commerce operations. 
 
 **Check out the project repository for more details!**
